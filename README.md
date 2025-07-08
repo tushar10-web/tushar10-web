@@ -8,11 +8,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year Computer Science Engineering student  
+- 🎓 Computer Science Engineering student  
 - 💻 Focused on Full Stack Web Development and Core Java  
 - 🔍 Practicing Data Structures & Algorithms using Java  
 - 🛠️ Building projects to apply and grow my skills  
-- 🌐 Interested in backend technologies and CMS like WordPress
 
 ---
 
