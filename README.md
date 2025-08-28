@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tushar 👋</h1>
 
 <p align="center">
-  B.Tech CSE Student | Web Developer | Java & DSA Enthusiast
+  B.Tech CSE Student | Web Developer | Software Engineer
 </p>
 
 ---
