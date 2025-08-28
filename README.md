@@ -1,42 +1,21 @@
 <h1 align="center">Hi, I'm Tushar 👋</h1>
-
 <p align="center">
-  B.Tech CSE Student | Web Developer | Software Engineer
+  B.Tech CSE Student at Galgotias College (Graduating 2026) | Aspiring Software Engineer & Full Stack Web Developer
 </p>
-
 ---
-
 ### 👨‍💻 About Me
-
-- 🎓 Computer Science Engineering student  
-- 💻 Focused on Full Stack Web Development and Core Java  
-- 🔍 Practicing Data Structures & Algorithms using Java  
-- 🛠️ Building projects to apply and grow my skills  
-
+- 🎓 Computer Science Engineering student at Galgotias College  
+- 💻 Passionate about Software Engineering and Full Stack Web Development  
+- 🔍 Focused on mastering Data Structures & Algorithms using Java  
+- 🛠️ Building projects to grow my programming and development skills  
 ---
-
-### 🛠️ Tech Stack
-
-- **Languages:** Java, PHP, HTML, CSS, JavaScript  
-- **Web:** DOM Manipulation, Forms, Responsive Design  
-- **Backend:** PHP (Basics), MySQL  
-- **Tools:** Git, GitHub, VS Code  
-- **Currently Learning:** WordPress Development, Git CLI, React.js
-
+### 🛠️ Tech Stack & Skills
+- **Programming Languages:** Java, JavaScript, PHP, HTML, CSS  
+- **Frontend:** Responsive Web Design, DOM Manipulation, React.js (Learning)  
+- **Backend:** PHP, Node.js (to consider), MySQL, RESTful API development  
+- **Tools & Platforms:** Git, GitHub, VS Code, WordPress Development (Learning), Git CLI  
+- **Concepts:** Object-Oriented Programming, MVC Architecture, Agile Development  
+- **Currently Learning:** Advanced React.js, Git CLI, WordPress Development, Node.js fundamentals
 ---
-
-### 📂 Projects
-
-| Repository               | Description                                              |
-|--------------------------|----------------------------------------------------------|
-| `Java-DSA-practise`      | Java-based DSA solutions covering arrays, search, logic  |
-| `html-css-portfolio`     | Simple and clean personal portfolio webpage              |
-| `js-snippets`            | Mini JavaScript projects: toggle buttons, quote gen, etc |
-| `php-basics`             | PHP fundamentals: calculator, echo output, loop handling |
-
----
-
 ### 📫 Contact
-
 - GitHub: [github.com/tushar10-web](https://github.com/tushar10-web)
-
